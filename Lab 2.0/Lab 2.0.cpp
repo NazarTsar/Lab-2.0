@@ -1,8 +1,4 @@
-﻿// Lab_02.cpp
-// < Цар Назар >
-// Лабораторна робота № 2.1
-// Лінійні програми.
-// Варіант 24 
+﻿ 
 #include <iostream>
 #include <cmath>
 using namespace std;
